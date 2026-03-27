@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.1.0-alpha.3
+
+## What's Changed
+
+* fix: restrict Linux release builds to runner's own architecture
+* fix: resolve user PATH at startup so gh CLI works in packaged app
+* fix: use boolean arch flags for electron-builder CLI
+
+
 ## v0.1.0-alpha.2
 
 ## What's Changed
