@@ -1,5 +1,18 @@
 # Changelog
 
+## v0.1.0-alpha.2
+
+## What's Changed
+* fix: spawn terminal as login shell for correct PATH by @joseph-lozano in https://github.com/joseph-lozano/flywheel/pull/38
+* ci: skip macOS build on draft PRs by @joseph-lozano in https://github.com/joseph-lozano/flywheel/pull/42
+* fix: use store predicate paths so sidebar reflects branch renames by @joseph-lozano in https://github.com/joseph-lozano/flywheel/pull/41
+* fix: skip closed PR worktrees during discovery by @joseph-lozano in https://github.com/joseph-lozano/flywheel/pull/44
+* release: v0.1.0-alpha.2 by @joseph-lozano in https://github.com/joseph-lozano/flywheel/pull/45
+
+
+**Full Changelog**: https://github.com/joseph-lozano/flywheel/compare/v0.1.0-alpha.1...v0.1.0-alpha.2
+
+
 ## v0.1.0-alpha.1
 
 Initial alpha release of Flywheel — a tiling terminal workspace built on Electron.
