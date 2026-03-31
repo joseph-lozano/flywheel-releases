@@ -1,5 +1,25 @@
 # Changelog
 
+## v0.1.0-alpha.4
+
+## What's Changed
+
+* fix: expand hint bar to fill window when no projects exist
+* fix: prevent panel shrinking on horizontal scroll
+* feat: confirm before quitting the app
+* fix: batch addProject store mutations to prevent panel re-show
+* feat: align app theme with marketing page
+* feat: replace app icon with themed layers icon
+* feat: add native context menu for browser panels
+* fix: make single panel use full width instead of half
+* feat: browser panel DevTools
+* feat: auto-create terminal when switching to empty row
+* feat: clickable PR numbers and GitHub repo link in sidebar
+* fix: polish landing page
+* feat: add OG image and social meta tags
+* feat: show site favicon in browser panel chrome strip
+
+
 ## v0.1.0-alpha.3
 
 ## What's Changed
